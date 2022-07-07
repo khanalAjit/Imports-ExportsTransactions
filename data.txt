@@ -1,0 +1,12 @@
+KitKat,Import,Nestle,Food,250,50,6th JAN 2022,12500
+Monaco,Export,Parle,Food,100,10,7th JAN 2022,1000
+Kerosene,Export,NOC,Petroleum,5000,100,6th DEC 2021,500000
+Tar,Import,IOC,Petroleum,500,1500,17th DEC 2021,750000
+Honda Shine,Export,Honda,Vechile,100,300000,20th DEC 2021,30000000
+Hartford VR,Import,Hartford,Vechile,50,460000,21th JAN 2022,23000000
+Anklet,Export,OEM Manufacturers,Jewellery,100,320,22th JAN 2022,32000
+Brooch,Import,RB Diamond Jewellers,Jewellery,50,950,20th OCT 2021,47500
+MacBook Air,Import,Apple,Gagdets,100,148000,26th JUN 2021,14800000
+Ripple Artifact,Export,Ripple,Gagdets,100,150000,3rd APR 2021,15000000
+Joggers,Import,Adidas,Clothes,50,1500, 1st APR 2022,75000
+Air Jordan,Export,Nike,Clothes,150,100000,2nd MAY,15000000
